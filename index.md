@@ -10,6 +10,8 @@ nav_order: 1
 Complete exam prep for the **NVIDIA Certified Associate: AI Infrastructure and Operations (NCA-AIIO)** — study notes, official course screenshots, architecture diagrams, and field experience from real enterprise AI deployments.
 {: .fs-6 .fw-300 }
 
+[한국어 학습 가이드]({{ '/ko/' | relative_url }}){: .btn .fs-5 .mb-4 }
+
 [Start with the Exam Overview](00-exam-overview/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Jump to Domain 1](01-essential-ai-knowledge/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
