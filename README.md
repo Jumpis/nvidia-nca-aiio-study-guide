@@ -8,6 +8,10 @@ This repository contains structured study notes, diagrams, screenshots from the 
 
 **[Open the Study Guide site →](https://ziash.github.io/nvidia-nca-aiio-study-guide)**
 
+## 한국어 번역본
+
+**[한국어 학습 가이드](ko/README.md)** — 기술 용어와 제품명은 영어로 유지하고, 설명과 문제 해설은 한글로 제공합니다.
+
 ## What's inside
 
 | Section | Content |
